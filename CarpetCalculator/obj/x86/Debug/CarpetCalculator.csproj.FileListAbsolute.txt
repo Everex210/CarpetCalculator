@@ -1,0 +1,5 @@
+c:\users\rlanoux\documents\visual studio 2010\Projects\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
+c:\users\rlanoux\documents\visual studio 2010\Projects\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
+c:\users\rlanoux\documents\visual studio 2010\Projects\CarpetCalculator\CarpetCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rlanoux\documents\visual studio 2010\Projects\CarpetCalculator\CarpetCalculator\obj\x86\Debug\CarpetCalculator.exe
+c:\users\rlanoux\documents\visual studio 2010\Projects\CarpetCalculator\CarpetCalculator\obj\x86\Debug\CarpetCalculator.pdb
